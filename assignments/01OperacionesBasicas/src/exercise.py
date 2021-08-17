@@ -5,9 +5,12 @@ def main():
     suma = n1+n2
     resta = n1-n2
     multi = n1*n2
-    print("Suma: ",suma)
-    print("Resta: ",resta)
-    print("Multiplicación: ", multi)
+    print("Suma:",suma)
+    print("Resta:",resta)
+    print("Multiplicación:", multi)
+
+
+
 
 if __name__ == '__main__':
     main()
